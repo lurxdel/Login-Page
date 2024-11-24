@@ -12,12 +12,12 @@ A simple PHP login system with MySQLi Database
 To run the website locally, do the following.
 
 - **Install Server:** The website requires to have a local server to run, you can use either one of these.
-  - **WAMPSERVER** You can get it from here.
-    - [Wampserver](https://sourceforge.net/projects/wampserver/)
-  - **XAMPP** You can get it from here.
-    - [Xampp](https://www.apachefriends.org/)
+  - **WAMPSERVER**
+    - You can get it from here. [Wampserver](https://sourceforge.net/projects/wampserver/)
+  - **XAMPP**
+    - You can get it from here. [Xampp](https://www.apachefriends.org/)
 
-Extract the file `login.sql` in the server 
+Extract the `login.sql` file in the server 
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
