@@ -1,5 +1,5 @@
 # Login Page
-A simple PHP login system with MySQLi Database
+A simple PHP login system with MySQLi Database.
 
 ## Screenshots
 ### Login
@@ -17,7 +17,9 @@ To run the website locally, do the following.
   - **XAMPP**
     - You can get it from here. [Xampp](https://www.apachefriends.org/)
 
-Extract the `login.sql` file in the server 
+### Create Database
+- Create a database name `login`
+- Import `login.sql` file in the server 
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
